@@ -27,7 +27,7 @@ We will work with a **DNA FASTA file**, and the following tasks will be covered:
 ✅ Reading and parsing sequences using **Biopython**  
 ✅ Computing basic sequence statistics (length, GC content, nucleotide composition)  
 ✅ Visualizing data using **Matplotlib** and **Seaborn**  
-✅ Performing simple biological analysis (e.g., k-mer counting)  
+✅ Performing simple biological analysis and working with tabular data
 ✅ Hands-on coding directly on **Google Colab**  
 
 ---
