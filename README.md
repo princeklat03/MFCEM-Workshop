@@ -9,7 +9,7 @@ Welcome to the official repository for the **MFCEM Workshop** conducted at **IIT
 
 - **Title:** Python for Biologists: Hands-on Bioinformatics Analysis
 - **Date:** 8th March 2025  
-- **Organized by:** Mehta Family C (MFCEM), IIT Kanpur  
+- **Organized by:** Mehta Family Centre for Engineering in Medicine (MFCEM), IIT Kanpur  
 - **Instructor:** Dr. Prince Kumar Lat (Scientist - AI-driven Drug Discovery & Computational Biology)  
 
 ---
