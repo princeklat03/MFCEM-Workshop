@@ -1,0 +1,11 @@
+Alignment score: 420.0
+Identity: 53.09%
+Alignment length: 776
+Start position in seq1: 0, End position in seq1: 776
+Start position in seq2: 0, End position in seq2: 775
+
+Alignment score: 409.5
+Identity: 52.78%
+Alignment length: 773
+Start position in seq1: 0, End position in seq1: 773
+Start position in seq2: 0, End position in seq2: 772
